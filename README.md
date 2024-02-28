@@ -30,7 +30,7 @@ Credo fermamente nel potere del cambiamento positivo e nell'importanza di uno st
 
 ## 🤝 Contribuire
 
-Sei appassionato di fitness, sviluppo software, o semplicemente desideri contribuire a un progetto che promuove uno stile di vita sano? La tua collaborazione è benvenuta! Consulta la sezione [CONTRIBUTING.md](CONTRIBUTING.md) per maggiori informazioni su come puoi dare il tuo contributo.
+Sei appassionato di fitness, sviluppo software, o semplicemente desideri contribuire a un progetto che promuove uno stile di vita sano? La tua collaborazione è benvenuta! 
 
 ## 🔐 Sicurezza
 
